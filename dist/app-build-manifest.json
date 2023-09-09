@@ -1,0 +1,56 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack-0f87787c8d1c7716.js",
+      "static/chunks/fd9d1056-149d907368260f5a.js",
+      "static/chunks/596-b73cd7b2648ddce9.js",
+      "static/chunks/main-app-8bb442636972050d.js",
+      "static/chunks/685-34bf7ad37228496b.js",
+      "static/chunks/222-e8359a8d760baec8.js",
+      "static/chunks/app/page-98550c47f0326564.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-0f87787c8d1c7716.js",
+      "static/chunks/fd9d1056-149d907368260f5a.js",
+      "static/chunks/596-b73cd7b2648ddce9.js",
+      "static/chunks/main-app-8bb442636972050d.js",
+      "static/chunks/749-4f56c5d0d891edb2.js",
+      "static/css/58677828ba2cb77c.css",
+      "static/chunks/app/layout-c17842cedb7ea0ab.js"
+    ],
+    "/pages/dashboard/page": [
+      "static/chunks/webpack-0f87787c8d1c7716.js",
+      "static/chunks/fd9d1056-149d907368260f5a.js",
+      "static/chunks/596-b73cd7b2648ddce9.js",
+      "static/chunks/main-app-8bb442636972050d.js",
+      "static/chunks/749-4f56c5d0d891edb2.js",
+      "static/chunks/app/pages/dashboard/page-e46870a80dedcbd4.js"
+    ],
+    "/pages/home/page": [
+      "static/chunks/webpack-0f87787c8d1c7716.js",
+      "static/chunks/fd9d1056-149d907368260f5a.js",
+      "static/chunks/596-b73cd7b2648ddce9.js",
+      "static/chunks/main-app-8bb442636972050d.js",
+      "static/chunks/app/pages/home/page-87e3a91429577f72.js"
+    ],
+    "/pages/login/page": [
+      "static/chunks/webpack-0f87787c8d1c7716.js",
+      "static/chunks/fd9d1056-149d907368260f5a.js",
+      "static/chunks/596-b73cd7b2648ddce9.js",
+      "static/chunks/main-app-8bb442636972050d.js",
+      "static/chunks/749-4f56c5d0d891edb2.js",
+      "static/chunks/685-34bf7ad37228496b.js",
+      "static/css/431944509084d071.css",
+      "static/chunks/app/pages/login/page-b87acab6b957d316.js"
+    ],
+    "/pages/registration/page": [
+      "static/chunks/webpack-0f87787c8d1c7716.js",
+      "static/chunks/fd9d1056-149d907368260f5a.js",
+      "static/chunks/596-b73cd7b2648ddce9.js",
+      "static/chunks/main-app-8bb442636972050d.js",
+      "static/chunks/685-34bf7ad37228496b.js",
+      "static/css/431944509084d071.css",
+      "static/chunks/app/pages/registration/page-3ea20953b6859c08.js"
+    ]
+  }
+}

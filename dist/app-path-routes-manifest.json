@@ -1,0 +1,10 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/api/email/route": "/api/email",
+  "/pages/dashboard/page": "/pages/dashboard",
+  "/pages/home/page": "/pages/home",
+  "/pages/login/page": "/pages/login",
+  "/pages/registration/page": "/pages/registration",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]"
+}
